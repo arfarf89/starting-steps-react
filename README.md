@@ -41,5 +41,9 @@ Web links I read to start learning React in chronological order.
         - Solution - .map and .filter
     * Pure Functions. f(d)=v. Props and Nesting React Components.
         - Building UIs with Pure Functions and Function Composition in React
-        
+        - Introduction to PropTypes
+        - Video: Validating Components with PropTypes
+        - Quiz: Pure Functions and Props
+        - Video: The "this" Keyword Pt1: Intro and Implicit Binding
+        - Video: The "this" Keyword Pt2: Explicit binding with .call, .apply, and .bind
     
