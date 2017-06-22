@@ -15,7 +15,31 @@ Web links I read to start learning React in chronological order.
 2. [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 3. [On JSX](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)
 4. [React Fundamentals](https://reacttraining.com/online/react-fundamentals)
-    * Welcome
-    * Introduction to the React Ecosystem Video
-    * Introduction to React Quiz
+    * Intro to the React Ecosystem
+        - Welcome
+        - Introduction to the React Ecosystem Video
+        - Introduction to React Quiz
 
+## Day 4
+
+1. [React Fundamentals](https://reacttraining.com/online/react-fundamentals)
+    * Intro to the React Ecosystem
+        - Imperative vs Declarative Programming
+    * Setting up your first React component with NPM, Babel, and Webpack
+       - Intro to Text Sections
+       - NPM
+       - Webpack 2 for React
+       - First React Component
+       - Video: Babel, Webpack, and React
+       - (Bonus Text) React Elements vs React Components
+       - Quiz: Npm, Babel, and Webpack
+    * Dataflow with Props in React
+        - Practicing Props
+        - Solution - Props
+        - Creating lists in React with .map and .filter
+        - Practicing .map and .filter
+        - Solution - .map and .filter
+    * Pure Functions. f(d)=v. Props and Nesting React Components.
+        - Building UIs with Pure Functions and Function Composition in React
+        
+    
