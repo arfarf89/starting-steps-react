@@ -45,5 +45,27 @@ Web links I read to start learning React in chronological order.
         - Video: Validating Components with PropTypes
         - Quiz: Pure Functions and Props
         - Video: The "this" Keyword Pt1: Intro and Implicit Binding
+
+## Day 5
+
+1. [React Fundamentals](https://reacttraining.com/online/react-fundamentals)
+    * Pure Functions. f(d)=v. Props and Nesting React Components.
         - Video: The "this" Keyword Pt2: Explicit binding with .call, .apply, and .bind
-    
+        - Video: The "this" keyword Pt3: The "new" and "window" binding
+        - Video: Managing and Updating Component State
+        - Quiz: The "this" keyword
+    * Stateless Functional Components
+        - Stateless Functional Components in React
+        - Video: Stateless Functional Components
+        - Private Components in React
+        - (Bonus Text) Functional Components vs Stateless Functional Components vs Stateless Components
+    * Life Cycle Events + Ajax
+        - React Life Cycle Events
+        - Video: Making Ajax Requests in React
+        - Quiz: Lifecycle Events
+    * React Router V4
+        - Intro to React Router V4
+
+2. [React Training / React Router](https://reacttraining.com/react-router/web)
+
+        
