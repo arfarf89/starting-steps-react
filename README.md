@@ -69,3 +69,11 @@ Web links I read to start learning React in chronological order.
 2. [React Training / React Router](https://reacttraining.com/react-router/web)
 
         
+## Day 9
+
+1. [React Stateless Function Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
+
+## Day 10
+
+1. [Redux: The Single Immutable State Tree](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree)
+2. [Redux Documentation](http://redux.js.org/)
